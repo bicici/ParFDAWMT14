@@ -30,6 +30,7 @@ Language models were built using SRILM (http://www.speech.sri.com/projects/srilm
 
 Work using the datasets:
 ------------------------
+- Ergun Biçici and Lucia Specia. QuEst for High Quality Machine Translation. The Prague Bulletin of Mathematical Linguistics, 103, 2015.
 - Ergun Biçici, Qun Liu, and Andy Way. Parallel FDA5 for Fast Deployment of Accurate Statistical Machine Translation Systems. In Proceedings of the Ninth Workshop on Statistical Machine Translation, Baltimore, USA, June 2014. Association for Computational Linguistics.
 - Ergun Biçici (contributor), “Quality Estimation for Extending Good Translations”, QTLaunchPad Deliverable: 
 http://www.qt21.eu/launchpad/deliverable/quality-estimation-extending-good-translations
