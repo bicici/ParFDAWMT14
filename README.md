@@ -37,4 +37,4 @@ http://www.qt21.eu/launchpad/deliverable/quality-estimation-extending-good-trans
 
 
 LICENSE:
-CNGL License for Open Data allowing use for research and academic purposes.
+DCU License for Open Data allowing use for research and academic purposes.
