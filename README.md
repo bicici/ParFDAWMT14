@@ -37,5 +37,4 @@ http://www.qt21.eu/launchpad/deliverable/quality-estimation-extending-good-trans
 - Ergun Biçici, High Quality Machine Translation with ITERPE, 2014. Note: Dublin City University Invention Disclosure.
 
 
-LICENSE:
-DCU License for Open Data allowing use for research and academic purposes.
+LICENSE: Dublin City University License for Open Data allowing use for research and academic purposes.
