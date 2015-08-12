@@ -3,11 +3,11 @@ ParFDAWMT
 
 Parallel FDA5 (ParFDA) WMT'14 Datasets
 
-We make the English, Czech, German, and Russian datasets available used when building ParFDA Moses SMT systems for research purposes. Downloadable from:
+We make the English, Czech, German, and Russian datasets available used when building ParFDA Moses SMT systems for research purposes:
 
 https://drive.google.com/folderview?id=0B6Jae6trZb1aVzJvSnZ5UncxTEE&usp=sharing
 
-Results are presented in the citation provided below.
+Reference translations for the test set are available from http://www.statmt.org/wmt14/translation-task.html. Results are presented in the citation provided below.
 
 Citation:
 
