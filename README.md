@@ -1,9 +1,9 @@
-ParFDAWMT
+parfdaWMT
 ==========
 
-Parallel FDA5 (ParFDA) WMT'14 SMT Datasets
+Parallel FDA5 (parfda) WMT'14 SMT Datasets
 
-We make the English, Czech, German, and Russian datasets available used when building ParFDA Moses SMT systems for research purposes:
+We make the English, Czech, German, and Russian datasets available used when building parfda Moses SMT systems for research purposes:
 
 https://drive.google.com/folderview?id=0B6Jae6trZb1aVzJvSnZ5UncxTEE&usp=sharing
 
